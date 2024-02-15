@@ -1,0 +1,39 @@
+*{margin: 0;
+ padding: 0;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+.container{
+    background-color: rgb(195, 197, 120);
+    padding-bottom: 4px;
+}
+
+.container h1{
+    text-decoration-line: underline;
+    padding-left: 5px;
+    text-align: center;
+}
+
+hr{
+    padding-top: 3px;
+    background-color: rgb(0, 0, 0);
+}
+
+.pdetail{
+   margin:10px 0px 10px 10px;  
+
+}
+.pdetail p{
+    padding: 2px 0px 0px 150px;
+}
+
+.academic {
+   
+}
+
+.list{
+    padding: 2px 0px 0px 150px;
+    text-wrap:wrap;
+
+}
