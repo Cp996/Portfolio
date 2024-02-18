@@ -266,9 +266,9 @@ body {
     display: flex;
     justify-content: center;
     margin-left: 170px;
-    background:transparent;
+    /* background:transparent; */
     position: fixed;
-    width: 100%;
+    width: 200vh;
     height: 730px;
     background-repeat: no-repeat;
     transition-property: all 2s ease-in;
@@ -279,14 +279,14 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 50dvh;
     height: 100%;
-    /* background: #081b29; */
-    /* animation: showRight 2s ease forwards;
-    animation-delay: 3.5s; */
+    background: #081b29;
+    margin-left: 40%;
+    animation: showRight 2s ease forwards;
+    animation-delay: 5.5s;
     
 }
 .bg-img:hover{
-    transition-property: all 2s ease-in 1s;
-    tr
+    transform: rotate(360deg);
 }
