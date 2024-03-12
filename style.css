@@ -290,6 +290,3 @@ body {
 .bg-img:hover{
     transform: rotate(360deg);
 }
-.js{
-    background-color:rgb(255, 123, 0);
-}
