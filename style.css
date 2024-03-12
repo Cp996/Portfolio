@@ -44,7 +44,7 @@ body {
     animation-delay: .4s;
 }
 
-.navbar a {
+.link a {
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-size: 18px;
@@ -54,7 +54,7 @@ body {
 
 }
 
-.navbar a:hover {
+.link a:hover {
     color: #00abf0;
 }
 
