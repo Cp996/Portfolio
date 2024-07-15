@@ -1,5 +1,5 @@
 
-@media screen and (min-width:400px)and (min-height:736px) {
+/* @media screen and (min-width:375px)and (min-height:667px) { */
 * {
         margin: 0;
         padding: 0;
@@ -301,4 +301,4 @@
     .bg-img:hover {
         transform: rotate(360deg);
     }
-}
+/* } */
