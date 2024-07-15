@@ -9,7 +9,7 @@ body {
     background-color: #0b1b29;
 }
 
-.collapse{
+.navbar-toggler{
     display:flex;
     background-color:#081b29;
     justify-content: center;
