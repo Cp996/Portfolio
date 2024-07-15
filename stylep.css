@@ -1,3 +1,4 @@
+@media screen and (min-width:400px) {
 *{margin: 0;
  padding: 0;
  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -12,7 +13,7 @@
 .container h1{
     text-decoration-line: underline;
     padding-left: 5px;
-    text-align: center;
+    text-align: left;
 }
 
 hr{
@@ -24,16 +25,23 @@ hr{
    margin:10px 0px 10px 10px;  
 
 }
-.pdetail p{
+/* .pdetail p{
     padding: 2px 0px 0px 150px;
-}
+} */
 
 .academic {
    
 }
+@media screen and (min-width:400px) {
+    .list{
+        /* padding: 2px 0px 0px 150px; */
+        text-wrap:wrap;
 
-.list{
+}
+ /* .list{
     padding: 2px 0px 0px 150px;
-    text-wrap:wrap;
+    text-wrap:wrap;  */
+
+}
 
 }
