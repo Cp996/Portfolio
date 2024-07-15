@@ -23,20 +23,13 @@ hr{
 
 .pdetail{
    margin:10px 0px 10px 10px;  
-
-}
-/* .pdetail p{
-    padding: 2px 0px 0px 150px;
-} */
-.academic {
-   
 }
 @media screen and (min-width:400px) {
     .list{
         /* padding: 2px 0px 0px 150px; */
         text-wrap:wrap;
 
-}
+    }
  /* .list{
     padding: 2px 0px 0px 150px;
     text-wrap:wrap;  */
